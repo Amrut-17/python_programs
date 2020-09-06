@@ -21,3 +21,5 @@ array = numpy.ndarray(shape = (n) , dtype = int)
 linear(array)
             
 		
+# This code is RUN on Numpy library function 
+# So its prerequirment that the Numpy library should be installed
